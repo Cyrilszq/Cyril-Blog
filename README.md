@@ -5,6 +5,10 @@ welcome to my blog
 
 [关于圣杯布局](https://github.com/Cyrilszq/Cyril-Blog/issues/1)
 
+## js系列
+
+[实现自定义事件](https://github.com/Cyrilszq/Cyril-Blog/issues/5)
+
 ## Vue系列
 
 [vue插件机制及模板渲染](https://github.com/Cyrilszq/Cyril-Blog/issues/2)
