@@ -9,6 +9,8 @@ welcome to my blog
 
 [实现自定义事件](https://github.com/Cyrilszq/Cyril-Blog/issues/5)
 
+[记一次webpack配置过程](https://github.com/Cyrilszq/Cyril-Blog/issues/7)
+
 ## Vue系列
 
 [vue插件机制及模板渲染](https://github.com/Cyrilszq/Cyril-Blog/issues/2)
