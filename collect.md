@@ -6,3 +6,7 @@
 [前端面试](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 
 [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
+
+[ECMAScript5.1中文版](http://yanhaijing.com/es5/#null)
+
+[认识javascript中的作用域和上下文](http://yanhaijing.com/javascript/2013/08/30/understanding-scope-and-context-in-javascript/)
