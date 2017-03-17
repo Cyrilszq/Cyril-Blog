@@ -15,7 +15,7 @@ welcome to my blog
 
 [vue插件机制及模板渲染](https://github.com/Cyrilszq/Cyril-Blog/issues/2)
 
-[异步更新DOM(Vue.nextTick与React的setState分析笔记)](https://github.com/Cyrilszq/Cyril-Blog/issues/8)
+[批量更新DOM(Vue.nextTick与React的setState分析笔记)](https://github.com/Cyrilszq/Cyril-Blog/issues/8)
 
 ## 其他
 
