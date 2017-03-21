@@ -17,6 +17,8 @@ welcome to my blog
 
 [批量更新DOM(Vue.nextTick与React的setState分析笔记)](https://github.com/Cyrilszq/Cyril-Blog/issues/8)
 
+[Redux与Vuex源码笔记(一)](https://github.com/Cyrilszq/Cyril-Blog/issues/9)
+
 ## 其他
 
 [常见排序算法及动画演示js实现](https://github.com/Cyrilszq/Cyril-Blog/issues/3)
