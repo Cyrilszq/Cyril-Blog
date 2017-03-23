@@ -19,6 +19,8 @@ welcome to my blog
 
 [Redux与Vuex源码笔记(一)](https://github.com/Cyrilszq/Cyril-Blog/issues/9)
 
+[Redux与Vuex源码笔记(二)](https://github.com/Cyrilszq/Cyril-Blog/issues/10)
+
 ## 其他
 
 [常见排序算法及动画演示js实现](https://github.com/Cyrilszq/Cyril-Blog/issues/3)
