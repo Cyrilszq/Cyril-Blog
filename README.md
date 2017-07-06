@@ -28,3 +28,4 @@ welcome to my blog
 [常见排序算法及动画演示js实现](https://github.com/Cyrilszq/Cyril-Blog/issues/3)
 
 [网络是怎样连接的](https://github.com/Cyrilszq/Cyril-Blog/issues/4)
+[项目中遇到一些坑（长期记录）](https://github.com/Cyrilszq/Cyril-Blog/issues/12)
