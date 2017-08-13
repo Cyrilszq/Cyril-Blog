@@ -30,3 +30,7 @@ welcome to my blog
 [网络是怎样连接的](https://github.com/Cyrilszq/Cyril-Blog/issues/4)
 
 [项目中遇到一些坑（长期记录）](https://github.com/Cyrilszq/Cyril-Blog/issues/12)
+
+## 成长
+
+[学习前端一年都学到了什么](https://github.com/Cyrilszq/Cyril-Blog/issues/13)
